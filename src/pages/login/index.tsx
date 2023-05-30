@@ -30,7 +30,7 @@ export function Login() {
             <FontAwesomeIcon icon={faLock} />
             Senha
           </h1>
-          <input type="text" title="senha" />
+          <input type="password" title="senha" />
           <ButtonEsqueceuSenha>Esqueceu a senha?</ButtonEsqueceuSenha>
           <NavLink to="/home" style={{ textDecoration: "none" }}>
             <ButtonLogin>Entrar</ButtonLogin>
