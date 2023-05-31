@@ -116,11 +116,16 @@ export const InputNumero = styled(InputBase)`
 `;
 export const InputBairro = styled(InputBase)`
   height: 50px;
-  width: 490px;
+  width: 430px;
 `;
 export const InputCidade = styled(InputBase)`
   height: 50px;
-  width: 490px;
+  width: 430px;
+`;
+
+export const InputUf = styled(InputBase)`
+  height: 50px;
+  width: 104px;
 `;
 
 export const DivSeparador = styled.div`
