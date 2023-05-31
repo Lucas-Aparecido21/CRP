@@ -27,8 +27,7 @@ export const DivTitulo = styled.div`
 
   button {
     all: unset;
-    width: 200px;
-    height: 48px;
+    width: 15%;
     display: flex;
     cursor: pointer;
     border-radius: 99px;

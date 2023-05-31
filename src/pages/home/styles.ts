@@ -21,12 +21,13 @@ export const DivReceitas = styled.button`
   box-shadow: 1px 1px 6px 1px gray;
   width: 380px;
   gap: 8px;
-  height: 180px;
+  height: 220px;
   font-family: "Poppins", sans-serif;
   font-size: 22px;
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 8px;
 
   :hover {
     color: ${(props) => props.theme["blue-dark"]};
@@ -39,12 +40,13 @@ export const DivPedidos = styled.button`
   box-shadow: 1px 1px 6px 1px gray;
   width: 380px;
   gap: 8px;
-  height: 180px;
+  height: 220px;
   font-family: "Poppins", sans-serif;
   font-size: 22px;
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 8px;
 
   :hover {
     color: ${(props) => props.theme["blue-dark"]};
@@ -57,12 +59,13 @@ export const DivClientes = styled.button`
   box-shadow: 1px 1px 6px 1px gray;
   width: 380px;
   gap: 8px;
-  height: 180px;
+  height: 220px;
   font-family: "Poppins", sans-serif;
   font-size: 22px;
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 8px;
 
   :hover {
     color: ${(props) => props.theme["blue-dark"]};

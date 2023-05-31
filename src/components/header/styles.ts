@@ -11,6 +11,7 @@ export const ContainerGeral = styled.div`
 export const ContainerConteudo = styled.div`
   display: flex;
   width: 80%;
+  align-items: center;
   justify-content: space-between;
 `;
 
